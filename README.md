@@ -12,7 +12,7 @@
 - Hello
 - World
 
-.... c++
+```c++
 //Vanessa Karina Juarez Garza
 //A00834795
 /*Aprendizaje:
@@ -38,4 +38,16 @@ void leerDatosSerie( std::string &_id, std::string &_titulo, int &_duracion, std
 	cout<< "Ingresa la cantidad de Episodios: ";
 	cin>> _cantEpisodios;
 }
-....
+```
+___
+[Favorite Song](https://youtu.be/D9G1VOjN_84)
+![nice](Procastination.png)
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+- [x] Tacos
+- [ ] Rajas con queso
+- [ ] Chilaquiles
