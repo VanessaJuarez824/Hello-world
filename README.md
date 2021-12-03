@@ -43,10 +43,10 @@ ___
 [Favorite Song](https://youtu.be/D9G1VOjN_84)
 ![nice](Procastination.png)
 
-| Syntax | Description |
+| Nombre Amigos | Clases con ellos |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Juan | 1 |
+| Adrian | 3 |
 
 - [x] Tacos
 - [ ] Rajas con queso
